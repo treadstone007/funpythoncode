@@ -1,4 +1,5 @@
 # This game was created so that I could better understand how randomise work in Python. Feel free to give feedback! 
+# I should probably add more comments to this code so that others understand the flow.
 import random
 
 rock = '''
